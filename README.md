@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer from **Dhaka, Bangladesh** 🇧🇩, currently focusing on building innovative software solutions. I believe in learning by doing and constantly challenging myself with new technologies and projects.
+I'm a CSE student from **United International University** 🇧🇩, currently focusing on building real time problem solving skills. I believe in learning by doing and constantly challenging myself with new technologies and projects.
 
 - 🎯 **Currently Focusing**: Building real-time collaborative environments and multiplayer systems
 - 🌱 **Learning**: WebSocket architecture, Game Development with Phaser 3, Spring Boot
