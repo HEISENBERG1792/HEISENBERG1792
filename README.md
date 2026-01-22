@@ -55,7 +55,7 @@ A collaborative project for managing tickets efficiently, built as part of SPL L
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEISENBERG1792&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEISENBERG1792&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEISENBERG1792&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=c&exclude_repo=repo1,repo2)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEISENBERG1792&theme=radical&hide_border=true)
 
@@ -79,7 +79,7 @@ A collaborative project for managing tickets efficiently, built as part of SPL L
 
 ## 💭 Fun Fact
 
-> "The best way to predict the future is to invent it." - Alan Kay
+> "Winners celebrate, Losers complain." - Unknown
 
 ---
 
